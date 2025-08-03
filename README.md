@@ -28,8 +28,8 @@ Los usuarios deben poder:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Oliver-92/Order-Summary-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solución](https://www.frontendmentor.io/solutions/responsive-order-summary-card-using-flexbox-NLhJw5fGv_)
+- [URL del sitio](https://oliver-92.github.io/Order-Summary-Card/)
 
 ## Mi proceso
 
@@ -60,7 +60,7 @@ Ejemplo de código que me gustó cómo quedó:
 ## Autor
 
 - Website - [Ezequiel Oliver](https://oliver-92.github.io/Portafolio/)
-- Frontend Mentor - [@yOliver-92](https://www.frontendmentor.io/profile/Oliver-92)
+- Frontend Mentor - [@Oliver-92](https://www.frontendmentor.io/profile/Oliver-92)
 
 ## Agradecimientos
 
